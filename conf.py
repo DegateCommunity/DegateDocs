@@ -43,6 +43,9 @@ locale_dirs = ['locale/']
 
 gettext_compact = False
 
+# The master toctree document.
+master_doc = 'index'
+
 
 # -- Options for HTML output -------------------------------------------------
 
