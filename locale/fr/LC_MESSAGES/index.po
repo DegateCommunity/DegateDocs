@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Degate Community
+# This file is distributed under the same license as the Degate package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Degate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-20 15:53+0200\n"
+"PO-Revision-Date: 2020-09-20 16:33+0200\n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#: ../../index.rst:9
+msgid "Contents:"
+msgstr ""
+
+#: ../../index.rst:7
+msgid "Welcome to Degate's documentation!"
+msgstr "Bienvenue dans la documentation de Degate !"
+
+#: ../../index.rst:15
+msgid ""
+"You will find here all the documentation available to use Degate. "
+"However, this documentation is still under construction. So, if "
+"information is missing, you can report it `here`__."
+msgstr ""
+"Vous trouverez ici toute la documentation disponible pour utiliser "
+"Degate. Toutefois, cette documentation est toujours en construction. "
+"Ainsi, si une information manque, vous pouvez le signaler `ici`__."
+
+#: ../../index.rst:19
+msgid ""
+"`Degate`__ is a multi-platform software for semi-automatic VLSI reverse "
+"engineering of digital logic in chips. This project is a fork of the "
+"initial Degate project, the final goal is to replace it. For more please "
+"visit our `wiki`__ page and, if you want to chat, visit our `Gitter`__. "
+"The current project maintainer is `Dorian Bachelot`__."
+msgstr ""
+"`Degate`__ est un logiciel multiplateforme pour la rétro-ingénierie semi-"
+"automatique de puce de silicium. Ce projet est un fork du projet "
+"initial, l’objectif final étant de le remplacer. Pour en savoir plus, "
+"veuillez visiter notre page `wiki`__ et, si vous voulez discuter, "
+"visitez notre `Gitter`__. Le responsable actuel du projet est `Dorian "
+"Bachelot`__."
