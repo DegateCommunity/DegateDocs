@@ -18,7 +18,8 @@ __ https://gitter.im/DegateCommunity/Degate
 __ https://github.com/DorianBDev/
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 5
    :caption: Contents:
 
    pages/introduction
+   pages/general
