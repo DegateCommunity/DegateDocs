@@ -12,4 +12,5 @@ You will find below a list of topics that will present basic functionalities of 
    introduction_dir/modules
    introduction_dir/rule_violations
    introduction_dir/shortcuts
+   introduction_dir/project_settings
    introduction_dir/window
